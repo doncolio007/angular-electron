@@ -6,3 +6,5 @@ Install from CLI run:
 'npm install'
 
 'npm run webpack'
+# image-size-calculator
+Calculates the size of listed images
