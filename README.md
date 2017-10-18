@@ -5,4 +5,4 @@ Install from CLI run:
 
 'npm install'
 
-'npm run webpack'
+'npm run watch'
